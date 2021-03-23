@@ -10,10 +10,10 @@ Navigate to line 92 and set your discord bot's token. Then invite the bot to the
 
 It should look like this:
 ```csharp
-                        Program.token = "Bot ODIzMzU0Mjg2NTEwNTcxNTgx.YFfmbw.ktivWpMcj3xXL1Mhex-Nd32-FzI"; //Bot Token
-						Program.commanding_parent = 823353814232465428UL; //Category inside the server's id.
-						Program.commanding_guild = 326353814232465449UL; //Guid ID
-						Program.commanding_users.Add(810393427677151222UL);
+Program.token = "Bot ODIzMzU0Mjg2NTEwNTcxNTgx.YFfmbw.ktivWpMcj3xXL1Mhex-Nd32-FzI"; //Bot Token
+Program.commanding_parent = 823353814232465428UL; //Category inside the server's id.
+Program.commanding_guild = 326353814232465449UL; //Guid ID
+Program.commanding_users.Add(810393427677151222UL);
 ```
 
 ## How to copy id's
