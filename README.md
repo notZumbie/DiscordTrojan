@@ -1,3 +1,8 @@
+# Discontinued
+
+Thank you to anyone who liked this project, if you want to update it yourself feel free to fork it! 
+Have a nice night!
+
 # DiscordTrojan
 
 This is a trojan horse designed for Educational use ONLY. This is a Remote Access Trojan that functions through discord instead of a ip.
