@@ -1,7 +1,6 @@
 # Discontinued
 
 Thank you to anyone who liked this project, if you want to update it yourself feel free to fork it! 
-Have a nice night!
 
 # DiscordTrojan
 
